@@ -1,0 +1,12 @@
+{
+  "autopep8.args": ["--ignore", "E70", "--max-line-length", "500"],
+  "files.associations": {
+    "libmpsse_spi.h": "c",
+    "ftd2xx.h": "c"
+  },
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/desktop.ini": true,
+    "**/__init__.py": true
+  }
+}
